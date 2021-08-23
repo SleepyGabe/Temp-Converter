@@ -1,0 +1,10 @@
+C:\Users\gabriel\Desktop\OTFI1B_Parinas_TempConverter\bin\Debug\OTFI1B_Parinas_TempConverter.exe.config
+C:\Users\gabriel\Desktop\OTFI1B_Parinas_TempConverter\bin\Debug\OTFI1B_Parinas_TempConverter.exe
+C:\Users\gabriel\Desktop\OTFI1B_Parinas_TempConverter\bin\Debug\OTFI1B_Parinas_TempConverter.pdb
+C:\Users\gabriel\Desktop\OTFI1B_Parinas_TempConverter\obj\Debug\OTFI1B_Parinas_TempConverter.csprojAssemblyReference.cache
+C:\Users\gabriel\Desktop\OTFI1B_Parinas_TempConverter\obj\Debug\OTFI1B_Parinas_TempConverter.Form1.resources
+C:\Users\gabriel\Desktop\OTFI1B_Parinas_TempConverter\obj\Debug\OTFI1B_Parinas_TempConverter.Properties.Resources.resources
+C:\Users\gabriel\Desktop\OTFI1B_Parinas_TempConverter\obj\Debug\OTFI1B_Parinas_TempConverter.csproj.GenerateResource.cache
+C:\Users\gabriel\Desktop\OTFI1B_Parinas_TempConverter\obj\Debug\OTFI1B_Parinas_TempConverter.csproj.CoreCompileInputs.cache
+C:\Users\gabriel\Desktop\OTFI1B_Parinas_TempConverter\obj\Debug\OTFI1B_Parinas_TempConverter.exe
+C:\Users\gabriel\Desktop\OTFI1B_Parinas_TempConverter\obj\Debug\OTFI1B_Parinas_TempConverter.pdb
